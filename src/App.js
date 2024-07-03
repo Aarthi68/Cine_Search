@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { useEffect } from 'react';
 import MovieCard from './MovieCard';
 
-const apiKey = 'http://www.omdbapi.com?apikey=b9b15076'
+const apiKey = 'https://www.omdbapi.com?apikey=b9b15076'
 
 const App = () => {
 
